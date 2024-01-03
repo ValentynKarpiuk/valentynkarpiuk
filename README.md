@@ -1,4 +1,4 @@
-[![Header](https://github.com/ValentynKarpiuk/valentynkarpiuk/blob/main/assets/header.png)] (https://www.linkedin.com/in/valentyn-karpiuk/)
+[![Header](https://github.com/ValentynKarpiuk/valentynkarpiuk/blob/main/assets/header.png)](https://www.linkedin.com/in/valentyn-karpiuk/)
 
 About me 
 
