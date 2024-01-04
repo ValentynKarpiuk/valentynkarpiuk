@@ -2,9 +2,14 @@
 
 ## I am ISTQB certified QA Engineer, with 4+ years experience in manual and automation testing
 
-QA tips and tricks, projects
+### [You can see my CV here](https://drive.google.com/file/d/1ARTgotpPjVNVkodtIdkNKxpy_IBEI0XT/view?usp=drive_link)
 
-## Languages and tools
+### QA tips and tricks, projects
+
+### - [SQL Queries]()
+
+
+### Languages and tools
 ![Cypress](https://img.shields.io/badge/Cypress-black?logo=cypress)
 ![JS](https://img.shields.io/badge/javascript-blue?logo=javascript)
 ![Postman](https://img.shields.io/badge/Postman-black?logo=postman)
@@ -22,4 +27,6 @@ QA tips and tricks, projects
 ![TestRail](https://img.shields.io/badge/TestRail-000000?logo=testrail)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira)
 
-Follow Me 
+### Follow Me 
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/valentyn-karpiuk/)
