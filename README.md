@@ -6,7 +6,7 @@
 
 ### QA tips and tricks, projects
 
-### - [SQL Queries]()
+### - [SQL Queries](https://github.com/ValentynKarpiuk/SQL-Queries/blob/main/SQLqueries.sql)
 
 
 ### Languages and tools
