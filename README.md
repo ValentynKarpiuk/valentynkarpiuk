@@ -8,6 +8,7 @@
 
 ### - [SQL Queries](https://github.com/ValentynKarpiuk/SQL-Queries/blob/main/SQLqueries.sql)
 ### - [GIT Commands](https://github.com/ValentynKarpiuk/GIT_commands)
+### - [Automation test cases with CypressJS](https://github.com/ValentynKarpiuk/CypressJS)
 
 
 ### Languages and tools
